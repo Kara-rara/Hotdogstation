@@ -1,4 +1,4 @@
-## Bubberstation (A Skyrat Downstream)
+## Hotdogstation (A Bubberstation Downstream (A Skyrat Downstream))
 
 [![CI Suite](https://github.com/Skyrat-SS13/Skyrat-tg/actions/workflows/ci_suite.yml/badge.svg)](https://github.com/Skyrat-SS13/Skyrat-tg/actions/workflows/ci_suite.yml)
 
@@ -6,10 +6,10 @@
 
 * **Git / GitHub cheatsheet:** https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833
 * **Modularization Policy for this repo:** Pending
-* **Code:** https://github.com/Bubberstation/Bubberstation
+* **Code:** https://github.com/Kara-rara/Hotdogstation
 * **tgstation Wiki:** https://tgstation13.org/wiki/Main_Page
 * **Skyrat Codedocs:** https://skyrat-ss13.github.io/Skyrat-tg/
-* **Bubberstation Discord:** https://discord.gg/AvjrTqnqEx
+* **Hotdogstation Discord:** https://discord.gg/MsEa7EC3sA
 * **Coderbus Discord:** https://discord.gg/Vh8TJp9
 
 This is Bubberstation's downstream fork of Skyrat, which is in turn a fork of tgstation.
